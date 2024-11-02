@@ -27,7 +27,7 @@ Find my resume [here](https://github.com/akramj13/resume/blob/main/files/renderc
   
 ---
 
-## 💻 **Tech Stack**
+## 💻 **Skills and Technologies**
 
 ### Skills
 <p>
