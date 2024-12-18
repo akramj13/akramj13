@@ -6,7 +6,7 @@
 </div>
 
 ### My name is Akram ...
-and I'm an 18 year old software developer, focused on leveraging **cutting-edge technologies** to build ideas that can have an impact. I'm particularly interested in **machine learning**, **natural language processing**, and **data science** in the realm of financial applications!
+and I'm a software developer, focused on leveraging **cutting-edge technologies** to build ideas that can have an impact. I'm particularly interested in **machine learning**, **natural language processing**, and **data science** in the realm of financial applications!
 
 Find my resume [here](https://github.com/akramj13/resume/blob/main/files/rendercv_output/Akram_Jamil_CV.pdf). 
 
