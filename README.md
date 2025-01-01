@@ -22,7 +22,7 @@ Find my resume [here](https://github.com/akramj13/resume/blob/main/files/renderc
 
 ## 🌐 **Connect with Me**
 - 🌍 I'm currently based in **Toronto, Canada**
-<!-- - 💻 Check out my portfolio at [Akram Jamil]() -->
+- 💻 Check out my portfolio at [Akram Jamil](https://akramj.vercel.app/)
 - ✉️ Contact me at [akram.jamil@uwaterloo.ca](mailto:akram.jamil@uwaterloo.ca) or send a message on [Linkedin](https://www.linkedin.com/in/akramjamil/)!
   
 ---
