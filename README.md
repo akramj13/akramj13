@@ -8,7 +8,7 @@
 ### My name is Akram ...
 and I'm a software developer, focused on leveraging **cutting-edge technologies** to build ideas that can have an impact. I'm particularly interested in **machine learning**, **natural language processing**, and **data science** in the realm of financial applications!
 
-Find my resume [here](https://github.com/akramj13/resume/blob/main/files/rendercv_output/Akram_Jamil_CV.pdf). 
+Find my resume [here](https://github.com/akramj13/resume/blob/main/Akram_Jamil_CV.pdf)
 
 ---
 
