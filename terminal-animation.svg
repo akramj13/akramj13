@@ -1,0 +1,71 @@
+<svg width="600" height="350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .terminal {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #c9d1d9;
+      }
+      .prompt {
+        fill: #7c3aed;
+      }
+      .output {
+        fill: #10b981;
+      }
+      .cursor {
+        fill: #c9d1d9;
+        animation: blink 1s infinite;
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+      .typewriter {
+        opacity: 0;
+      }
+      .line1 { animation: typewriter 0.5s 0.5s forwards; }
+      .line2 { animation: typewriter 0.5s 1.5s forwards; }
+      .line3 { animation: typewriter 0.5s 2.5s forwards; }
+      .line4 { animation: typewriter 0.5s 3.5s forwards; }
+      .line5 { animation: typewriter 0.5s 4.0s forwards; }
+      .line6 { animation: typewriter 0.5s 4.5s forwards; }
+      .line7 { animation: typewriter 0.5s 5.0s forwards; }
+      .line8 { animation: typewriter 0.5s 5.5s forwards; }
+      .line9 { animation: typewriter 0.5s 6.0s forwards; }
+      .line10 { animation: typewriter 0.5s 6.5s forwards; }
+      .line11 { animation: typewriter 0.5s 7.0s forwards; }
+      .line12 { animation: typewriter 0.5s 7.5s forwards; }
+      
+      @keyframes typewriter {
+        to { opacity: 1; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Terminal background -->
+  <rect width="600" height="350" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Terminal header -->
+  <rect width="600" height="30" rx="8" fill="#21262d"/>
+  <circle cx="20" cy="15" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="15" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="15" r="6" fill="#27ca3f"/>
+  
+  <!-- Terminal content -->
+  <text x="20" y="60" class="terminal prompt typewriter line1">$ whoami</text>
+  <text x="20" y="80" class="terminal output typewriter line2">akramj13</text>
+  
+  <text x="20" y="110" class="terminal prompt typewriter line3">$ cat user_profile.txt</text>
+  <text x="20" y="130" class="terminal output typewriter line4">Loading user profile...</text>
+  <text x="20" y="150" class="terminal output typewriter line5">█████████████████████████ 100%</text>
+  
+  <text x="20" y="180" class="terminal output typewriter line6">Location: Toronto, Canada 🇨🇦</text>
+  <text x="20" y="200" class="terminal output typewriter line7">Status: Software Engineer</text>
+  <text x="20" y="220" class="terminal output typewriter line8">Mood: Curious 🤔</text>
+  <text x="20" y="240" class="terminal output typewriter line9">Viewer Device: Probably a rectangle with a screen</text>
+  
+  <text x="20" y="270" class="terminal output typewriter line10">Profile loaded successfully ✓</text>
+  
+  <text x="20" y="300" class="terminal prompt typewriter line11">$</text>
+  <text x="35" y="300" class="terminal cursor typewriter line12">▋</text>
+</svg>
