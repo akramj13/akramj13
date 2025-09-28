@@ -4,7 +4,7 @@
   <img src="./terminal-animation.svg" alt="Terminal Animation" width="600"/>
 </div>
 
-- 💻 check out my portfolio at [this website](https://akramj.vercel.app/)
+- 💻 check out my portfolio at [this website](https://akramj.com/)
 - ✉️ contact me at [akram.jamil@uwaterloo.ca](mailto:akram.jamil@uwaterloo.ca) or send a message on [linkedin](https://www.linkedin.com/in/akramjamil/)!
 
 ---
